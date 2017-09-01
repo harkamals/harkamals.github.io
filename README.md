@@ -12,6 +12,7 @@ Learning resources
 ### [Awesome Golang](https://github.com/avelino/awesome-go)
 ### [Awesome Python](https://github.com/vinta/awesome-python)
 ### [Tutorials: Go by Example](https://gobyexample.com/)
+### https://go.libhunt.com
 ----
 
 **Starter Books**

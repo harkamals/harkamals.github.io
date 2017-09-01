@@ -1,7 +1,8 @@
 # harkamals.github.io
 
-Go Books [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 ====
+* [Curated Resources](#curated-resources)
 * [Books](#books)
  * [Starter Books](#starter-books)
  * [Advanced Books](#advanced-books)
@@ -9,8 +10,15 @@ Go Books [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed7
 * [Resources](#resources)
 
 
+**Curated resources**
+### [Awesome Golang](https://github.com/avelino/awesome-go)
+### [Awesome Python](https://github.com/vinta/awesome-python)
+====
+
 **Books**
 ====
+
+
 
 **Starter Books**
 ----
@@ -226,7 +234,7 @@ This course is an invaluable resource to help you understand Go's powerful featu
 
 Resources
 ====
-
+### https://github.com/avelino/awesome-go
 ### [A tour of Go](https://tour.golang.org/)
 ### [Video: Learn Go Syntax in one video](http://www.youtube.com/watch?v=CF9S4QZuV30)
 ### [Tutorials: Go by Example](https://gobyexample.com/)

@@ -1,9 +1,8 @@
 # harkamals.github.io
 
-
+Learning resources
 ====
 * [Curated Resources](#curated-resources)
-====
 * [Books](#books)
  * [Starter Books](#starter-books)
  * [Advanced Books](#advanced-books)
@@ -14,12 +13,8 @@
 **Curated resources**
 ### [Awesome Golang](https://github.com/avelino/awesome-go)
 ### [Awesome Python](https://github.com/vinta/awesome-python)
-====
-
+----
 **Books**
-====
-
-
 
 **Starter Books**
 ----

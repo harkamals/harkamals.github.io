@@ -11,11 +11,12 @@ Learning resources
 
 
 **Curated resources**
+====
 ### [Awesome Golang](https://github.com/avelino/awesome-go)
 ### [Awesome Python](https://github.com/vinta/awesome-python)
 ----
 **Books**
-
+====
 **Starter Books**
 ----
 

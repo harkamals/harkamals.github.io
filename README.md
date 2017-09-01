@@ -7,6 +7,9 @@ Learning resources
 * [Advanced Books](#advanced-books)
 * [Web Development](#web-development)
 
+**SDK**
+### [AWS-SDK for Go](https://github.com/aws/aws-sdk-go)
+----
 **Curated resources**
 ====
 ### [Awesome Golang](https://github.com/avelino/awesome-go)

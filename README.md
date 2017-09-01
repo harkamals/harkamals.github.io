@@ -3,20 +3,17 @@
 Learning resources
 ====
 * [Curated Resources](#curated-resources)
-* [Books](#books)
- * [Starter Books](#starter-books)
- * [Advanced Books](#advanced-books)
- * [Web Development](#web-development)
-* [Resources](#resources)
-
+* [Starter Books](#starter-books)
+* [Advanced Books](#advanced-books)
+* [Web Development](#web-development)
 
 **Curated resources**
 ====
 ### [Awesome Golang](https://github.com/avelino/awesome-go)
 ### [Awesome Python](https://github.com/vinta/awesome-python)
+### [Tutorials: Go by Example](https://gobyexample.com/)
 ----
-**Books**
-====
+
 **Starter Books**
 ----
 
@@ -231,10 +228,8 @@ This course is an invaluable resource to help you understand Go's powerful featu
 
 Resources
 ====
-### https://github.com/avelino/awesome-go
 ### [A tour of Go](https://tour.golang.org/)
 ### [Video: Learn Go Syntax in one video](http://www.youtube.com/watch?v=CF9S4QZuV30)
-### [Tutorials: Go by Example](https://gobyexample.com/)
 ### [Go Fundamentals Video Training](http://shop.oreilly.com/category/learning-path/go-fundamentals.do)
 ### [More Books on the Go Wiki](https://github.com/golang/go/wiki/Books)
 

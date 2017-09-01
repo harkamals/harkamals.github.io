@@ -3,6 +3,7 @@
 
 ====
 * [Curated Resources](#curated-resources)
+====
 * [Books](#books)
  * [Starter Books](#starter-books)
  * [Advanced Books](#advanced-books)
